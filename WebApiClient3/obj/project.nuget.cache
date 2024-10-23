@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HSPFnJLwbI1DIwiUS1czEjxrTowSMPq2ndOS225xPZKfd9XR9xyxtbJn5Fq6S6bLJwPDzZCmRvRqwLg9ZvJtyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maksi\\OneDrive\\Рабочий стол\\Тестовое задание АЭБ\\ClientTutorial\\WebApiServer\\WebApiClient3\\WebApiClient3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maksi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WebApiClient1": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
